@@ -1,0 +1,23 @@
+/* index.php */
+.connect-with-us
+{
+    padding: 50px;
+    max-width: 600px;
+    border: 2px solid black;
+}
+#form-header
+{
+    text-align: center;
+}
+textarea
+{
+    resize: none;
+}
+
+/* comments.php */
+.comment
+{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
